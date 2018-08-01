@@ -1,4 +1,5 @@
 #GGG
+#gggg
 from random import randint
 def C_B():
     random='1234'
