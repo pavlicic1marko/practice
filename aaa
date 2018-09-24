@@ -4,3 +4,5 @@ object1[0][["AdjClose","of_first_value"]].to_sql(
     con=engine1,
     index=True,
 )
+
+c=23
