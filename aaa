@@ -1,8 +1,0 @@
-engine1 = create_engine('sqlite:///newstock.db')
-object1[0][["AdjClose","of_first_value"]].to_sql(
-    name='newtable2',
-    con=engine1,
-    index=True,
-)
-
-c=23
