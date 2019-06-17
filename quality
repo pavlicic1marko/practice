@@ -1,6 +1,0 @@
-f= open("input.txt", "r")
-quality=f.readline().rstrip("\n")
-c=f.read().split('\n')
-for i in c[3::4]:
-    print(i)
-print(quality)
