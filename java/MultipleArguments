@@ -1,0 +1,14 @@
+public class MultipleArguments {
+
+	public static void main(String[] args) {
+		myfunction(1,2,3);
+
+	}
+	public static void myfunction(int...args){
+		for(int x:args) {
+			System.out.println(x);
+		}
+		
+	}
+
+}
