@@ -1,2 +1,4 @@
 #ignore test files
 *.test
+yarn-error.log*
+
